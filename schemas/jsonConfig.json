@@ -195,7 +195,7 @@
                     "type": "boolean"
                   },
                   "noTranslation": true,
-                  "multible": true,
+                  "multiple": true,
                   "label": true,
                   "type": true,
                   "sm": true,
@@ -1189,6 +1189,7 @@
                   "lg": true,
                   "xs": true,
                   "newLine": true,
+                  "multiple": true,
                   "hidden": true,
                   "hideOnlyControl": true,
                   "disabled": true,
@@ -1376,7 +1377,7 @@
                                 "type": "boolean"
                               },
                               "noTranslation": true,
-                              "multible": true,
+                              "multiple": true,
                               "label": true,
                               "type": true,
                               "sm": true,
